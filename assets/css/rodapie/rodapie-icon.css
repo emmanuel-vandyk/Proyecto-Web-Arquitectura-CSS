@@ -1,0 +1,29 @@
+
+.rodapie__icon:hover {
+    cursor: pointer;
+    transition: all .1s ease-in-out;
+}
+
+.rodapie__icon--whatsapp {
+    filter: hue-rotate(100deg) brightness(1.5);
+}
+
+.rodapie__icon--whatsapp:hover {
+    filter: hue-rotate(100deg) brightness(60%);
+}
+
+.rodapie__icon--mensaje {
+    filter: hue-rotate(20deg) brightness(3);
+}
+
+.rodapie__icon--mensaje:hover {
+    filter: hue-rotate(20deg) brightness(1) opacity(1.5);
+}
+
+.rodapie__icon--instagram {
+    filter: hue-rotate(675deg) brightness(100%);
+}
+
+.rodapie__icon--instagram:hover {
+    filter: hue-rotate(675deg) brightness(50%);
+}
