@@ -13,5 +13,7 @@ El proyecto fue realizado aplicando la metodología **Atomic Design** creando un
 
 ## Editor del proyecto
 
-| [<sub>Emmanuel Van Dick</sub>] ("https://avatars.githubusercontent.com/u/93367648?v=4") |
+| <img src="https://user-images.githubusercontent.com/93367648/220524124-b7ca9ddb-40b4-4b2d-8603-3d2d384f4da5.jpg" width=115 > |
 | :---: |
+| <a href="https://github.com/Emmanuel-VanDick9"><strong>Emmanuel Van Dick<strong></a> |
+  
